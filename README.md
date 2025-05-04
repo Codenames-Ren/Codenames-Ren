@@ -38,7 +38,7 @@ Let's connect and build cool things together!
 
 #### 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/Lawliet.1.12/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noire_92) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sukmab121@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/Lawliet.1.12/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noire_92) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sukmab121@gmail.com)
 
 <hr>
 
