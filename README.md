@@ -44,11 +44,21 @@ Let's connect and build cool things together!
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codenames-Ren&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Codenames-Ren&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Codenames-Ren&theme=dark&hide_border=false" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codenames-Ren&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Codenames-Ren&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Codenames-Ren&theme=dark&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
 <hr>
 
