@@ -44,16 +44,11 @@ Let's connect and build cool things together!
 
 ### 📊 GitHub Stats:
 
-<div style="display: flex; gap: 10px;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codenames-Ren&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api?username=Codenames-Ren&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codenames-Ren&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</div>
-
-![](https://github-readme-stats.vercel.app/api?username=Codenames-Ren&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Codenames-Ren&theme=dark&hide_border=false) <br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Codenames-Ren&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Codenames-Ren&theme=dark&hide_border=false" />
+</p>
 
 <hr>
 
