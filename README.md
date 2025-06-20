@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="100%" src="https://media1.tenor.com/m/htzXFjJyMBwAAAAC/ushio-noa-blue-archive.gif"  />
+<img width="100%" src="/Image/ushio-noa-blue-archive.gif"  />
 
 # Hi there! 👋
 
