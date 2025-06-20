@@ -78,7 +78,7 @@ Let's connect and build cool things together!
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Codenames-Ren&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
     </td>
     <td>
-  <img src="[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Codenames-Ren&theme=transparent)](https://github.com/Codenames-Ren/github-readme-profile)" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Codenames-Ren&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
     </td>
   </tr>
   <tr>
