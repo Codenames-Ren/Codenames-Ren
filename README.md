@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnV4Y3BzdzhlejZiaGM4ZGpnZGp4aGNqZm9vbXBqejljdzJteXRzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wMQiwQaolQAWQ/giphy.gif"  />
+<img width="100%" src="/Image/natsume.webp"  />
 
 # Hi there! 👋
 
@@ -32,7 +32,7 @@ Let's connect and build cool things together!
 
 #### 💻 Tech Stack:
 
-<img align="right" height="150" src="https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif?cid=ecf05e47vlisg3qmld16f90j4s89o236vbb6qtmqq9bv2udf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="200" src="/Image/nyanko-sensei.gif"  />
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
