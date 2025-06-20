@@ -32,7 +32,7 @@ Let's connect and build cool things together!
 
 #### 💻 Tech Stack:
 
-<img align="center" height="150" src="/Image/nyanko-sensei.gif"  />
+<img align="right" height="150" src="/Image/nyanko-sensei.gif"  />
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
