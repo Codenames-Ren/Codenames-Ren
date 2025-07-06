@@ -23,7 +23,7 @@ Let's connect and build cool things together!
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td valign="top">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,go,insomnia,python,flask,tailwind,postgresql,mysql,sqlite&theme=dark&perline=4" width="800" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,go,postman,python,flask,tailwind,postgresql,mysql,sqlite&theme=dark&perline=4" width="800" />
 </td>
 <td align="right" valign="top">
 <img src="/Image/nyanko-sensei.gif" width="220" />
