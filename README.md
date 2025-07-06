@@ -1,20 +1,6 @@
-<!-- ## Hi there 👋 -->
-<!--
-**Codenames-Ren/Codenames-Ren** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img width="100%" src="/Image/ushio-noa-blue-archive.gif" alt="noa" />
 
-**# Hi there! 👋**
+# Hi there! 👋
 
 I'm Bayu, a computer science student who's always curious and constantly learning.
 
@@ -30,7 +16,7 @@ Let's connect and build cool things together!
 
 <hr>
 
-**#### 💻 Tech Stack:**
+#### 💻 Tech Stack:
 
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
@@ -43,7 +29,7 @@ Let's connect and build cool things together!
 </tr>
 </table>
 
-**#### 🌐 Socials:**
+#### 🌐 Socials:
 
 <div align="left">
 <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
@@ -53,7 +39,7 @@ Let's connect and build cool things together!
 
 <hr>
 
-**### 📊 GitHub Stats:**
+### 📊 GitHub Stats:
 
 <table align="center">
 <tr>
@@ -73,7 +59,8 @@ Let's connect and build cool things together!
 
 <hr>
 
-**## 🏆 GitHub Trophies**
+## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Codenames-Ren&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -81,11 +68,5 @@ Let's connect and build cool things together!
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Codenames-Ren/Codenames-Ren/output/snake.svg" alt="Snake animation" />
-
-<!-- <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codenames-Ren/Codenames-Ren/output/pacman-contribution-graph-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Codenames-Ren/Codenames-Ren/output/pacman-contribution-graph.svg">
- <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Codenames-Ren/Codenames-Ren/output/pacman-contribution-graph.svg">
-</picture> -->
 
 <hr>
