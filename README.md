@@ -2,7 +2,7 @@
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=48&pause=1000&center=true&vCenter=true&width=450&height=75&lines=Welcome+to+my+Profile~)](https://git.io/typing-svg)
+# Hi there! 👋
 
 I'm Bayu, a computer science student who's always curious and constantly learning.
 
@@ -18,7 +18,7 @@ Let's connect and build cool things together!
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=40&pause=1000&vCenter=true&width=450&height=75&lines=My+Tech+Stack~+%3A)](https://git.io/typing-svg)
+#### 💻 Tech Stack:
 
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
@@ -31,7 +31,7 @@ Let's connect and build cool things together!
 </tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=35&pause=1000&vCenter=true&width=450&height=75&lines=Socials~+%3A)](https://git.io/typing-svg)
+#### 🌐 Socials:
 
 <div align="left">
 <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
@@ -41,7 +41,7 @@ Let's connect and build cool things together!
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=40&pause=1000&vCenter=true&width=450&height=75&lines=Github+Stats~+%3A)](https://git.io/typing-svg)
+### 📊 GitHub Stats:
 
 <table align="center">
 <tr>
@@ -61,7 +61,7 @@ Let's connect and build cool things together!
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=40&pause=1000&vCenter=true&width=450&height=75&lines=Trophies~+%3A)](https://git.io/typing-svg)
+## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Codenames-Ren&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
