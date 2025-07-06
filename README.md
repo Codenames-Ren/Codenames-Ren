@@ -25,7 +25,7 @@ Let's connect and build cool things together!
 <td valign="top">
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,go,postman,python,flask,tailwind,postgresql,mysql,sqlite&theme=dark&perline=4" width="500" />
 </td>
-<td align="right" valign="top">
+<td align="right" valign="center">
 <img src="/Image/nyanko-sensei.gif" width="300" />
 </td>
 </tr>
