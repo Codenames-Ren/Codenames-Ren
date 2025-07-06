@@ -32,7 +32,9 @@ Let's connect and build cool things together!
 
 #### 💻 Tech Stack:
 
-<img align="right" height="150" src="/Image/nyanko-sensei.gif"  />
+<table>
+<tr>
+<td width="50%">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 35px; width: 35px;" alt="html5 logo"  />
@@ -46,7 +48,9 @@ Let's connect and build cool things together!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="height: 35px; width: 35px;" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 35px; width: 35px;" alt="python logo"  />
-  <img width="12" />
+</div>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" style="height: 35px; width: 35px;" alt="insomnia logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="height: 35px; width: 35px;" alt="tailwindcss logo"  />
@@ -59,6 +63,17 @@ Let's connect and build cool things together!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="height: 35px; width: 35px;" alt="flask logo"  />
 </div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+  <img src="/Image/nyanko-sensei.gif" height="150" />
+</div>
+
+</td>
+</tr>
+</table>
 
 #### 🌐 Socials:
 
