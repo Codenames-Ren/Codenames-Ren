@@ -1,5 +1,7 @@
 <img width="100%" src="/Image/ushio-noa-blue-archive.gif" alt="noa" />
 
+<hr>
+
 # Hi there! 👋
 
 I'm Bayu, a computer science student who's always curious and constantly learning.
