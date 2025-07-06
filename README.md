@@ -32,13 +32,13 @@ Let's connect and build cool things together!
 
 **#### 💻 Tech Stack:**
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td>
+<td valign="top">
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,go,python,flask,tailwind,postgresql,mysql,sqlite&theme=dark" />
 </td>
-<td width="120">
-<img src="/Image/nyanko-sensei.gif" height="120" />
+<td align="right" valign="top">
+<img src="/Image/nyanko-sensei.gif" />
 </td>
 </tr>
 </table>
