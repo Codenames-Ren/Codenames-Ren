@@ -61,7 +61,7 @@ Let's connect and build cool things together!
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=40&duration=10&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Trophies~+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=30&duration=10&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Trophies~+%3A)](https://git.io/typing-svg)
 
 ![](https://github-profile-trophy.vercel.app/?username=Codenames-Ren&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
