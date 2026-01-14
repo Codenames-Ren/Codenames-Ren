@@ -47,34 +47,6 @@ Let's connect and build cool things together!
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=35&duration=10&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Github+Stats~+%3A)](https://git.io/typing-svg)
-
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Codenames-Ren&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Codenames-Ren&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://streak-stats.demolab.com?user=Codenames-Ren&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</td>
-</tr>
-</table>
-
-<hr>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=30&duration=10&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Trophies~+%3A)](https://git.io/typing-svg)
-
-![](https://github-profile-trophy.vercel.app/?username=Codenames-Ren&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Codenames-Ren/Codenames-Ren/output/snake.svg" alt="Snake animation" />
 
 <hr>
