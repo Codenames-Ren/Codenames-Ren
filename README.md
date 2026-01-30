@@ -2,7 +2,7 @@
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=45&duration=10&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+Profile~)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=45&duration=10&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+Profile~)](https://github.com/Codenames-Ren)
 
 I'm Bayu, a computer science student who's always curious and constantly learning.
 
@@ -18,7 +18,7 @@ Let's connect and build cool things together!
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=35&duration=10&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=My+Tech+Stack~+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=35&duration=10&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=My+Tech+Stack~+%3A)](https://github.com/Codenames-Ren)
 
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
@@ -31,7 +31,7 @@ Let's connect and build cool things together!
 </tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=30&duration=10&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Reach+me+at~+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=30&duration=10&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Reach+me+at~+%3A)](https://github.com/Codenames-Ren)
 
 <div align="left">
 <a href="https://www.facebook.com/Lawliet.1.12/" target="_blank">
