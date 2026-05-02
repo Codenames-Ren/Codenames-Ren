@@ -18,7 +18,7 @@ Let's connect and build cool things together!
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=35&duration=10&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=My+Tech+Stack~+%3A)](https://github.com/Codenames-Ren)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=35&duration=10&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Tech+Knowledge~+%3A)](https://github.com/Codenames-Ren)
 
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
