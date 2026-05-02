@@ -2,7 +2,7 @@
 
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=45&duration=10&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+Profile~)](https://github.com/Codenames-Ren)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=45&duration=10&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Welcome~)](https://github.com/Codenames-Ren)
 
 Student by day, backend enthusiast by night. I’m all about building solid systems and figuring out how things work under the hood. 
 
