@@ -4,17 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=My+Soul&size=45&duration=10&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+Profile~)](https://github.com/Codenames-Ren)
 
-I'm Bayu, a computer science student who's always curious and constantly learning.
+Student by day, backend enthusiast by night. I’m all about building solid systems and figuring out how things work under the hood. 
 
-Currently exploring the world of web development, building random projects as I go — some polished, some... not so much 😄
+Outside of coding, I’m a big sucker for a good story—whether it’s hidden in a novel, drawn in a manga, or experienced through a casual game. 
 
-I'm passionate about clean code, thoughtful design, and building things that (hopefully) make life a little easier.
-
-Whether it's front-end, back-end, or somewhere in between — I love experimenting and getting my hands dirty.
-
-📚 Still learning, always growing.
-
-Let's connect and build cool things together!
+Down to connect and talk about tech, or even better, book recommendations!
 
 <hr>
 
